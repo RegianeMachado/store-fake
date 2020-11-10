@@ -2,7 +2,6 @@ import {
   GridList,
   GridListTile,
   GridListTileBar,
-  ListSubheader,
   makeStyles,
 } from "@material-ui/core";
 
